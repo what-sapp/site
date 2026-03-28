@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "message": "🎉 New deployment option added: Deploy to Render!",
+    "type": "success",
+    "dismissible": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "message": "⚠️ Make sure your SESSION_ID starts with PHANTOM!",
+    "type": "warning",
+    "dismissible": true,
+    "active": true
+  }
+]

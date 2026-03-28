@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "message": "Under maintenance, we'll be back soon!",
+  "startTime": null,
+  "endTime": null,
+  "admins": ["phantomdev"],
+  "socialLinks": {
+    "whatsapp": "https://whatsapp.com/channel/0029Vb57ZHh7IUYcNttXEB3y",
+    "github": "https://github.com/what-sapp"
+  }
+}

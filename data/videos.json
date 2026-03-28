@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "How to Deploy Phantom Bot on Render",
+    "youtubeId": "dQw4w9WgXcQ",
+    "duration": "5:32",
+    "category": "Deployment",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Setting Up .env Configuration",
+    "youtubeId": "dQw4w9WgXcQ",
+    "duration": "3:45",
+    "category": "Configuration",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+  }
+]
